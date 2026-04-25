@@ -67,7 +67,7 @@ A​‍​‌‍​‍‌​‍​‌‍​‍‌ very moist atmosphere greatly 
 The first project proposal included a dedicated Power Supply Module. The module was not required during the implementation because the Arduino powers the system directly. The design was better, though, because the Serial Monitor let you see numbers in real time and the Serial Plotter let you see graphs of the data. This change made the system easier to use and gave us a better idea of how it worked.
 # Installation & Setup
 1. Clone the repository:
-https://github.com/aycaoztekin123-eng/EEE308-Project-mini-weather-station-pic16f877a
+https://github.com/aycaoztekin123-eng/mini-weather-station
 2. Open in Arduino IDE
 3. 3.Install required libraries:
 4. DHT sensor library
