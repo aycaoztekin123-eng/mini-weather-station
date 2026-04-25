@@ -1,5 +1,5 @@
-# EEE308-Project-mini-weather-station-pic16f877a
-PIC16F877A-Based Mini Weather Station with LCD Display and LED Alert
+# EEE308-Project-mini-weather-station
+Arduino Uno-Based Mini Weather Station with LCD Display and LED Alert
 # Description
 This file talks about the idea and the first steps in making a microcontroller-based mini weather station that works on the Arduino Uno. The equipment tracks temperature, humidity, and atmosphereric pressure in the environment. The recorded data is processed right away and shown on a 16x2 LCD panel, an Arduino Serial Monitor, and a Serial Plotter so you can see it in real time. Also, the three weather factors are put together into one equation to figure out how likely it is to rain, which is then shown on the LCD. A LED alert shows when the temperature above 20 degree.
 # Objective
