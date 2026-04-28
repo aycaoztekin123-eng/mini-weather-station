@@ -81,6 +81,22 @@ https://github.com/aycaoztekin123-eng/mini-weather-station
 - Serial Plotter shows graphical trends
 - LED indicates high temperature
 - Rain probability is calculated and displayed
+
+  ---
+
+##  Simulation
+
+The circuit was designed and verified in **Proteus ISIS** using the SIMULINO UNO model.
+
+### Test Scenarios
+
+| Scenario | Temp | Humidity | Pressure | Rain % | LED |
+|----------|------|----------|----------|--------|-----|
+| Normal | 27°C | 80% | 1013 hPa | 80% | ON |
+| High Temp | 31°C | 80% | 1013 hPa | 80% | ON |
+| Storm Risk | 31°C | 90% | 915 hPa | 100% | ON |
+
+---
 # Results
 The​‍​‌‍​‍‌​‍​‌‍​‍‌ system has worked to measure and visualize environmental data in real time and successfully capture it. Decoupling capacitors contribute to signal stability. Dual mode LCD interfaces help the system be reliable. The Serial Plotter can be really useful for comprehending the ​‍​‌‍​‍‌​‍​‌‍​‍‌data.
 # Future Work
